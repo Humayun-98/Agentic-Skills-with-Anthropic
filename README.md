@@ -21,7 +21,7 @@ assets/
 
 - Python
 - Anthropic API
-- Jupyter Notebook (if applicable)
+- Jupyter Notebook 
 
 ## Disclaimer
 
